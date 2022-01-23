@@ -9,6 +9,7 @@ Fonts I always re-download:
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
 - [MesloLGS](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts/tree/gh-pages)
+- [Oxygen](https://fonts.google.com/specimen/Oxygen)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 - [Ubuntu](https://design.ubuntu.com/font/)
 - [Victor Mono](https://rubjo.github.io/victor-mono/)
