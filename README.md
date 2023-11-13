@@ -4,6 +4,7 @@ Fonts I always re-download:
 - [ArrowType Recursive](https://github.com/arrowtype/recursive)
 - [Cascadia Code](https://github.com/microsoft/cascadia-code)
 - [FiraCode](https://github.com/tonsky/FiraCode)
+- [Font Logos](https://github.com/lukas-w/font-logos)
 - [Hack](https://github.com/source-foundry/Hack)
 - [IBM Plex](https://github.com/IBM/plex)
 - [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
